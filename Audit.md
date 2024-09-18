@@ -1,7 +1,7 @@
 # AI Tool Audit Report
 
 ## Executive Summary
-This report evaluates various AI tools available for medical companies, focusing on value for money, security, and effectiveness in enhancing productivity and diagnostic accuracy. The tools reviewed include Zebra Medical Vision, Snyk AI, and Harrison.ai's offerings in NSW, Australia.
+This report evaluates various AI tools available for medical companies, focusing on value for money, security, and effectiveness in enhancing productivity and diagnostic accuracy. The tools reviewed include Zebra Medical Vision and Snyk AI
 
 ## Introduction
 AI technologies are increasingly being integrated into healthcare to improve operational efficiencies, accuracy in diagnostics, and security. This audit assesses the top AI tools that could benefit medical companies, particularly those based in NSW, Australia. The analysis includes considerations of cost, benefits, risks, and overall value for money.
@@ -33,17 +33,7 @@ AI technologies are increasingly being integrated into healthcare to improve ope
 - **Cost Estimate**:
   - £20,000 to £100,000 annually, depending on the size of the company and the complexity of the software projects.
 
-### Harrison.ai (NSW Australia)
-- **Benefits**:
-  - Specializes in AI solutions for radiology and pathology.
-  - Improves diagnostic accuracy and supports clinicians in complex cases.
-  - Partnerships with Annalise.ai and I-MED provide comprehensive AI-driven diagnostic tools.
 
-- **Risks**:
-  - Ethical and regulatory challenges in using AI for life-critical diagnostics.
-
-- **Cost Estimate**:
-  - Custom pricing based on hospital size and diagnostic needs.
 
 ## Recommendations
 - **Zebra Medical Vision** is recommended for radiology departments looking for cost-effective, AI-powered diagnostics with scalable​⬤
