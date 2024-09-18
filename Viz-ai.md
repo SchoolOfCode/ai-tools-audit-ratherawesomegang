@@ -5,7 +5,7 @@
 
 - Solves problem of detecting conditions late - excels in detecting serious conditions like strokes, pulmonary embolisms, and aneurysms. Alerts healthcare professionals in real-time on mobiler app (see below), enabling rapid responses and improving patient outcomes.
 
-  ![App screenshot](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/05/65/d8/0565d8be-be17-3f77-c728-c55f786eeb86/pr_source.png/313x0w.webp "App screenshot")
+  ![App screenshot](https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d4/b6/9a/d4b69aad-5c05-7755-5bcb-3ef4da82cffd/pr_source.png/230x0w.webp "App screenshot")
 
 > DATA: saves precious minutes—39.5, according to a recent study—between the patient’s arrival and their treatment.
 >
