@@ -2,7 +2,9 @@
 
 **Techforge Medical** required our expertise to identify Medical / AI tools that can benefit the company going forward . 
 
-Why we chose to identify our company as a medical imaging centre :
+Why we chose to identify our company as a medical centre:
+
+We chose to focus on the medical field as we were interested in offering a fresh outlook and investigating how AI can influence health and diagnostics. AI offers the potential to improve patient care by making diagnosis faster and more accurate, helping doctors make better decisions, analysing complex data and even predicting health issues before they become serious. This technology can also personalise treatment, leading to better outcomes and streamline processes to make healthcare more efficient. By exploring AI in healthcare, we hope contribute to a field that makes a real difference in people's lives.
 
 Our research: 
 
