@@ -5,8 +5,9 @@
 ## Why we chose to identify our company as a medical centre:
 
 We chose to focus on the medical field as we were interested in offering a fresh outlook and investigating how AI can influence health and diagnostics. AI offers the potential to improve patient care by making diagnosis faster and more accurate, helping doctors make better decisions, analysing complex data and even predicting health issues before they become serious. This technology can also personalise treatment, leading to better outcomes and streamline processes to make healthcare more efficient. By exploring AI in healthcare, we hope contribute to a field that makes a real difference in people's lives.
-Executive Summary
-This AI Tool Audit Report evaluates three advanced AI solutions tailored for medical companies: Zebra Medical Vision, Snyk AI, Viz.ai, and Tempus AI. Each tool offers unique benefits for enhancing medical diagnostics, security, and patient care, yet presents specific risks that need to be managed. Zebra Medical Vision excels in real-time diagnostic analysis and cost-effectiveness, Snyk AI provides robust security and compliance features, Viz.ai offers rapid disease detection and care coordination, and Tempus AI enhances personalized treatment and research efficiency. The recommendations focus on balancing the benefits and risks to optimize decision-making for medical institutions.
+
+## Executive Summary
+This AI Tool Audit Report evaluates three advanced AI solutions tailored for medical companies: Zebra Medical Vision, Snyk AI, Viz.ai, and Tempus AI. Each tool offers unique benefits for enhancing medical diagnostics, security, and patient care, yet presents specific risks that need to be managed. Zebra Medical Vision excels in real-time diagnostic analysis and cost-effectiveness, Snyk AI provides robust security and compliance features, Viz.ai offers rapid disease detection and care coordination, and Tempus AI enhances personalised treatment and research efficiency. The recommendations focus on balancing the benefits and risks to optimise decision-making for medical institutions.
 
 ## Introduction
 
@@ -18,7 +19,7 @@ Zebra Medical Vision offers real-time, AI-driven diagnostics that significantly 
 
 ## Snyk AI
 
-Snyk AI specializes in identifying security vulnerabilities and ensuring compliance with regulations such as HIPAA and GDPR. It integrates seamlessly into development workflows, providing continuous monitoring, real-time alerts, and automated fixes. This tool supports medical companies in maintaining data security and regulatory compliance but may increase developer workload due to potential false positives. Cost varies based on company size and project complexity.
+Snyk AI specialises in identifying security vulnerabilities and ensuring compliance with regulations such as HIPAA and GDPR. It integrates seamlessly into development workflows, providing continuous monitoring, real-time alerts, and automated fixes. This tool supports medical companies in maintaining data security and regulatory compliance but may increase developer workload due to potential false positives. Cost varies based on company size and project complexity.
 
 ## Viz.ai
 
@@ -28,13 +29,13 @@ Viz.ai excels in detecting serious conditions like strokes and aneurysms with re
 
 ## Tempus AI
 
-Tempus AI provides advanced data analysis and integrated care solutions, enhancing personalized treatment and research efficiency. It helps in analyzing large-scale data from clinical trials, uncovering critical insights for cancer research, and streamlining treatment planning. Risks include data privacy concerns and compliance challenges. Despite these risks, Tempus AI offers significant benefits in cost savings, time efficiency, and productivity, making it a strong candidate for adoption.
+Tempus AI provides advanced data analysis and integrated care solutions, enhancing personalised treatment and research efficiency. It helps in analysing large-scale data from clinical trials, uncovering critical insights for cancer research, and streamlining treatment planning. Risks include data privacy concerns and compliance challenges. Despite these risks, Tempus AI offers significant benefits in cost savings, time efficiency, and productivity, making it a strong candidate for adoption.
 
 [![Tempus AI](https://cdn.builtin.com/cdn-cgi/image/f=auto,fit=contain,w=200,h=200,q=100/https://builtinboston.com/sites/www.builtinboston.com/files/2021-08/Tempus%20Logo.png)](https://github.com/SchoolOfCode/ai-tools-audit-ratherawesomegang/blob/main/TempusAI.md)
 
 ## Conclusion and Recommendations
 
-Each AI tool presents valuable benefits tailored to specific needs within the medical field. Zebra Medical Vision is recommended for institutions requiring efficient diagnostic imaging solutions. Snyk AI is essential for securing patient data and ensuring regulatory compliance. Viz.ai is highly effective for large hospitals focused on rapid disease detection and care coordination. Tempus AI stands out for personalized medicine and research efficiency but requires careful management of data privacy and compliance issues.
+Each AI tool presents valuable benefits tailored to specific needs within the medical field. Zebra Medical Vision is recommended for institutions requiring efficient diagnostic imaging solutions. Snyk AI is essential for securing patient data and ensuring regulatory compliance. Viz.ai is highly effective for large hospitals focused on rapid disease detection and care coordination. Tempus AI stands out for personalised medicine and research efficiency but requires careful management of data privacy and compliance issues.
 
 Overall, the benefits of these AI tools generally outweigh the risks if proper risk management and compliance measures are implemented. Medical companies should assess their specific needs and challenges to select the most suitable tools, ensuring they enhance operational efficiency and patient care while managing potential risks effectively. AI tools are transforming the healthcare industry by improving diagnostic accuracy and operational efficiencies. Medical companies should carefully evaluate AI solutions based on their specific needs, balancing the benefits of AI-driven diagnostics with the associated risks, especially around security and regulatory compliance.
 
