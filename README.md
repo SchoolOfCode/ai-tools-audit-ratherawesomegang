@@ -19,7 +19,7 @@ Tempus AI
  
 [![Viz.ai](https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a8/d8/0a/a8d80ab7-c33f-c003-9f84-3d8f3100d11b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/230x0w.webp)](https://github.com/SchoolOfCode/ai-tools-audit-ratherawesomegang/blob/main/Viz-ai.md)
 
-Viz-ai
+Viz.ai is a healthcare technology company that uses artificial intelligence to accelerate diagnosis and treatment in conditions like stroke by analyzing medical imaging data and alerting specialists to critical findings in real time.
 
 
 
