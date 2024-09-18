@@ -12,6 +12,8 @@ Our findings and conclusion:
 
  **presented findings** 
  markdown reports
+ 
+ [Viz.ai](https://github.com/SchoolOfCode/ai-tools-audit-ratherawesomegang/blob/main/Viz-ai.md)
 
 
 
