@@ -38,5 +38,7 @@ AI technologies are increasingly being integrated into healthcare to improve ope
 ## Recommendations
 - **Zebra Medical Vision** is recommended for radiology departments looking for cost-effective, AI-powered diagnostics with scalable​⬤
 
-## Conclusion
-AI tools are transforming the healthcare industry by improving diagnostic accuracy and operational efficiencies. Medical companies should carefully evaluate AI solutions based on their specific needs, balancing the benefits of AI-driven diagnostics with the associated risks, especially around security and regulatory compliance.
+
+
+<img src="Audit.png" alt="TypeScript Logo" class="top-img">
+<img src="Other.png" alt="TypeScript Logo" class="top-img">
